@@ -30,7 +30,7 @@ var anyEnderiumPlate            = <ore:plateEnderium>;
 var anyGoldPlate                = <ore:plateGold>;
 var anyIronPlate                = <ore:plateIron>;
 var anyTitaniumPlate            = <ore:plateTitanium>;
-var anyIridiumPlate				= <ore:plateIridium>;
+var anyIridiumPlate		= <ore:plateIridium>;
 var anyObsidianPlate            = <ore:plateObsidian>;
 var anyPlatinumPlate            = <ore:platePlatinum>;
 var anyRedstoneAlloyPlate       = <ore:plateRedstoneAlloy>;
@@ -99,46 +99,26 @@ var lvMotor2 = <libvulpes:advancedmotor>;
 var lvMotor3 = <libvulpes:enhancedmotor>;
 var lvMotor4 = <libvulpes:elitemotor>;
 var lvAdvStructMachine = <libvulpes:advstructuremachine>;
-//Liquid Emerald
-var liquidEmerald = <ic2:fluid_cell>.withTag({Fluid: {FluidName: "emerald", Amount: 1000}});
-//Gold Cable
-var ic2GoldCable = <ic2:cable:2>.withTag({type: 2 as byte, insulation: 0 as byte});
-//Copper Cable
-var ic2CopCable = <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte});
-//IC2 motor
-var ic2Motor = <ic2:crafting:6>;
-//AR battery
-var lvBat = <libvulpes:battery>;
-//AR Control circuit Board
-var arCtrlCircuit = <advancedrocketry:ic:3>;
-//Expensive AE2 circuit
-var ae2fluxCircuit = <appliedenergistics2:material:16>;
-//AR Item IO Circuit board
-var arItemCircuit = <advancedrocketry:ic:4>;
-//Diamond AE2 circuit board
-var ae2DiamondCircuit = <appliedenergistics2:material:17>;
-//Liquid IO circuit board
-var arLqdCircuit = <advancedrocketry:ic:5>;
-//Gold AE2 circuit baoard
-var ae2GldCircuit = <appliedenergistics2:material:18>;
-//IC2 Basic Circuit
-var ic2BasicCircuit = <ic2:crafting:1>;
-//IE Circuit
-var iieCircuit = <immersiveengineering:material:27>;
-//IC2 Advanced Circuit
-var ic2AdvCircuit = <ic2:crafting:2>;
-//AR UI
-var arGUI = <advancedrocketry:misc>;
-//AR Coil Copper
-var arCoilCopper = <libvulpes:coil0:4>;
-//AR Coil Gold
-var arCoilGold = <libvulpes:coil0:2>;
-//AR Coil Aluminum
-var arCoilAluminum = <libvulpes:coil0:9>;
-//AR Coil Titanium
-var arCoilTitanium = <libvulpes:coil0:7>;
-//AR Coil Iridium
-var arCoilIridium = <libvulpes:coil0:10>;
+var liquidEmerald = <ic2:fluid_cell>.withTag({Fluid: {FluidName: "emerald", Amount: 1000}}); //Liquid Emerald
+var ic2GoldCable = <ic2:cable:2>.withTag({type: 2 as byte, insulation: 0 as byte});	 //Gold Cable
+var ic2CopCable = <ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte});	 //Copper Cable
+var ic2Motor = <ic2:crafting:6>;							 //IC2 motor
+var lvBat = <libvulpes:battery>;							 //AR battery
+var arCtrlCircuit = <advancedrocketry:ic:3>; //AR Control circuit Board
+var ae2fluxCircuit = <appliedenergistics2:material:16>; //Expensive AE2 circuit
+var arItemCircuit = <advancedrocketry:ic:4>; //AR Item IO Circuit board
+var ae2DiamondCircuit = <appliedenergistics2:material:17>; //Diamond AE2 circuit board
+var arLqdCircuit = <advancedrocketry:ic:5>; //Liquid IO circuit board
+var ae2GldCircuit = <appliedenergistics2:material:18>; //Gold AE2 circuit baoard
+var ic2BasicCircuit = <ic2:crafting:1>; //IC2 Basic Circuit
+var iieCircuit = <immersiveengineering:material:27>; //IE Circuit
+var ic2AdvCircuit = <ic2:crafting:2>; //IC2 Advanced Circuit
+var arGUI = <advancedrocketry:misc>; //AR UI
+var arCoilCopper = <libvulpes:coil0:4>; //AR Coil Copper
+var arCoilGold = <libvulpes:coil0:2>; //AR Coil Gold
+var arCoilAluminum = <libvulpes:coil0:9>; //AR Coil Aluminum
+var arCoilTitanium = <libvulpes:coil0:7>; //AR Coil Titanium
+var arCoilIridium = <libvulpes:coil0:10>; //AR Coil Iridium
 
 
 print ("Adding machine recipes");
