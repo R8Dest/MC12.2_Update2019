@@ -1,0 +1,90 @@
+#MKConfigRemovals
+/*
+List of Items removed. 
+
+
+
+
+*/
+##Imports
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+import crafttweaker.oredict.IOreDictEntry;
+import mods.jei.JEI.removeAndHide;
+import mods.jei.JEI;
+
+
+
+//====GENERAL REMOVALS=====
+
+	//furnace isn't powerful enough for Titanium
+		furnace.remove(<ore:ingotTitanium>);
+
+	//Remove lower tier Base Minecraft tools
+		val normalTools = [<minecraft:wooden_pickaxe>,<minecraft:wooden_axe>,<minecraft:wooden_shovel>,<minecraft:wooden_sword>,<minecraft:wooden_hoe>,
+		<minecraft:stone_pickaxe>,<minecraft:stone_axe>,<minecraft:stone_shovel>,<minecraft:stone_sword>,<minecraft:stone_hoe>,
+		<minecraft:iron_pickaxe>,<minecraft:iron_axe>,<minecraft:iron_shovel>,<minecraft:iron_sword>,<minecraft:iron_hoe>
+		] as IItemStack[];
+
+		for item in normalTools
+		{
+			removeAndHide(item);
+		}
+
+
+
+
+
+//====MOD SPECIFIC REMOVALS====
+
+	//====Remove Thermal Expansion Dynamo's====
+		removeAndHide(<thermalexpansion:dynamo:1>);
+		removeAndHide(<thermalexpansion:dynamo:2>);
+		removeAndHide(<thermalexpansion:dynamo:3>);
+		removeAndHide(<thermalexpansion:dynamo:4>);
+		removeAndHide(<thermalexpansion:dynamo:5>);
+		//Remove easy smelter
+		removeAndHide(<thermalexpansion:machine:3>);
+
+	//====IC2 Removals====
+
+		//Remove Electric Furnace
+		recipes.remove(<ic2:te:44>);
+		//Macerator
+		removeAndHide(<ic2:te:47>);
+		//Generator
+		recipes.remove(<ic2:te:3>);
+		//Block Cutter
+		recipes.remove(<ic2:te:51>);
+		//Mining Laser
+		recipes.remove(<ic2:mining_laser>);
+		//Nano Saber
+		recipes.remove(<ic2:nano_saber>);
+		//metal former
+		removeAndHide(<ic2:te:55>);
+
+	
+	//====Lib Vulpes====
+		print ("Removing LibVulpes Stuff");
+		//Basic Machine Structure
+		recipes.remove(<libvulpes:structuremachine>);
+		//Adv Machine Structure
+		recipes.remove(<libvulpes:advstructuremachine>);
+		//Coil?
+		recipes.remove(<libvulpes:coil0:7>);
+		//Coil?
+		recipes.remove(<libvulpes:coil0:4>);
+		//Coil?
+		recipes.remove(<libvulpes:coil0:2>);
+		//Coil?
+		recipes.remove(<libvulpes:coil0:9>);
+		//Coil?
+		recipes.remove(<libvulpes:coil0:10>);
+		//Battery
+		recipes.remove(<libvulpes:battery>);
+	
+	//====Advanced Rocketry====
+		recipes.remove(<advancedrocketry:solarpanel>);
+		recipes.remove(<advancedrocketry:fueltank>);
+		recipes.remove(<advancedrocketry:blastbrick>);
+	

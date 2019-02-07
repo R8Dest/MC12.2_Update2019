@@ -1,0 +1,83 @@
+#MKConfigAddons
+/*
+List of Items Added. 
+
+
+
+
+*/
+##Imports
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+import crafttweaker.oredict.IOreDictEntry;
+import mods.jei.JEI;
+
+# Ingots
+var anyAlumiteIngot             = <ore:ingotAlumite>;
+var anyAmordrineIngot           = <ore:ingotAmordrine>;
+var anyAngmallenIngot           = <ore:ingotAngmallen>;
+var anyAstralSilverIngot        = <ore:ingotAstralSilver>;
+var anyCelenegilIngot           = <ore:ingotCelenegil>;
+var anyCobaltIngot              = <ore:ingotCobalt>;
+var anyElectrumIngot            = <ore:ingotElectrum>;
+var anyEnderiumIngot            = <ore:ingotEnderium>;
+var anyGoldIngot                = <ore:ingotGold>;
+var anyObsidianIngot            = <ore:ingotObsidian>;
+var anyPlatinumIngot            = <ore:ingotPlatinum>;
+var anyRedstoneAlloyIngot       = <ore:ingotRedstoneAlloy>;
+var anyRefinedGlowstoneIngot    = <ore:ingotRefinedGlowstone>;
+var anySteelIngot               = <ore:ingotSteel>;
+
+#Plates
+var anyAlumitePlate             = <ore:plateAlumite>;
+var anyAmordrinePlate           = <ore:plateAmordrine>;
+var anyAngmallenPlate           = <ore:plateAngmallen>;
+var anyAstralSilverPlate        = <ore:plateAstralSilver>;
+var anyCelenegilPlate           = <ore:plateCelenegil>;
+var anyCobaltPlate              = <ore:plateCobalt>;
+var anyElectrumPlate            = <ore:plateElectrum>;
+var anyEnderiumPlate            = <ore:plateEnderium>;
+var anyGoldPlate                = <ore:plateGold>;
+var anyIronPlate                = <ore:plateIron>;
+var anyObsidianPlate            = <ore:plateObsidian>;
+var anyPlatinumPlate            = <ore:platePlatinum>;
+var anyRedstoneAlloyPlate       = <ore:plateRedstoneAlloy>;
+var anyRefinedGlowstonePlate    = <ore:plateRefinedGlowstone>;
+var anySteelPlate               = <ore:plateSteel>;
+
+#Rods
+var anyAlumiteRod             = <ore:rodAlumite>;
+var anyAmordrineRod           = <ore:rodAmordrine>;
+var anyAngmallenRod           = <ore:rodAngmallen>;
+var anyAstralSilverRod        = <ore:rodAstralSilver>;
+var anyCelenegilRod           = <ore:rodCelenegil>;
+var anyCobaltRod              = <ore:rodCobalt>;
+var anyElectrumRod            = <ore:rodElectrum>;
+var anyEnderiumRod            = <ore:rodEnderium>;
+var anyGoldRod                = <ore:rodGold>;
+var anyIronRod                = <ore:rodIron>;
+var anyObsidianRod            = <ore:rodObsidian>;
+var anyPlatinumRod            = <ore:rodPlatinum>;
+var anyRedstoneAlloyRod       = <ore:rodRedstoneAlloy>;
+var anyRefinedGlowstoneRod    = <ore:rodRefinedGlowstone>;
+var anySteelRod               = <ore:rodSteel>;
+
+# Circuits
+var anyAdvancedCircuit          = <ore:circuitAdvanced>;
+var anyEliteCircuit             = <ore:circuitElite>;
+var anyUltimateCircuit          = <ore:circuitUltimate>;
+
+var ieSteelMechComponent        = <immersiveengineering:material:9>;
+var arMachineStruct             = <libvulpes:structuremachine>;
+
+
+print ("Adding machine recipes");
+recipes.addShaped(arMachineStruct * 4, [
+    [anyIronPlate,            anyIronRod, anyIronPlate],
+    [anyIronRod, ieSteelMechComponent,      anyIronRod],
+    [anyIronPlate,            anyIronRod, anyIronPlate]]);
+	
+recipes.addShaped(arMachineStruct, [
+    [anyIronPlate,            anyIronRod, anyIronPlate],
+    [anyIronRod, null,      anyIronRod],
+    [anyIronPlate,            anyIronRod, anyIronPlate]]);

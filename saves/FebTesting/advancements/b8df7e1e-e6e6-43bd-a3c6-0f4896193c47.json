@@ -1,0 +1,24 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2019-02-04 17:27:40 -0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2019-02-04 17:27:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-02-04 17:28:48 -0800",
+      "ocean": "2019-02-04 17:27:40 -0800",
+      "extreme_hills": "2019-02-04 17:28:18 -0800",
+      "roofed_forest": "2019-02-04 17:29:30 -0800",
+      "river": "2019-02-04 17:28:04 -0800"
+    },
+    "done": false
+  }
+}

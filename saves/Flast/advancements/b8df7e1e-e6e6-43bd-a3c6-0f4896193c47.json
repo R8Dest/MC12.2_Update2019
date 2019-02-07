@@ -1,0 +1,34 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2019-02-04 13:03:02 -0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2019-02-04 13:03:02 -0800"
+    },
+    "done": true
+  },
+  "buildcraftbuilders:shaping_the_world": {
+    "criteria": {
+      "code_trigger": "2019-02-04 13:21:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-04 13:22:58 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2019-02-04 13:03:02 -0800",
+      "plains": "2019-02-04 13:20:22 -0800",
+      "river": "2019-02-04 13:20:19 -0800"
+    },
+    "done": false
+  }
+}

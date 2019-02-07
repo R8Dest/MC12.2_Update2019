@@ -1,0 +1,6 @@
+This is Psi's Persistent Data directory.
+Files stored here are persistent info on what levels each player has gotten to.
+The files in here are the same for every instance and modpack you play, they always end up here.
+This allows you to skip tutorials on new worlds or even new modpacks.
+
+If you wish to disable this feature, you can turn it off in the Psi config file.

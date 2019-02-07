@@ -1,0 +1,806 @@
+<galaxy>
+	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0" >
+		<planet name="Earth" DIMID="0" dimMapping="">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<planet name="Luna" DIMID="3">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>16</gravitationalMultiplier>
+				<orbitalDistance>150</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>128000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-17" DIMID="17">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.72977495,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>127</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>82</atmosphereDensity>
+			<biomeIds>advancedrocketry:crystalchasms,voidcraft:voidcraft_biome_xia,abyssalcraft:purified_dreadlands,buildcraftenergy:oil_ocean,abyssalcraft:dreadlands_mountains</biomeIds>
+			<planet name="Sol-17: 0" DIMID="18">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.056801736,0.6995606,1.0</skyColor>
+				<gravitationalMultiplier>50</gravitationalMultiplier>
+				<orbitalDistance>153</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>192000</rotationalPeriod>
+				<atmosphereDensity>15</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-17: 1" DIMID="19">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.032526195,0.9455203,1.0</skyColor>
+				<gravitationalMultiplier>60</gravitationalMultiplier>
+				<orbitalDistance>156</orbitalDistance>
+				<orbitalPhi>-5</orbitalPhi>
+				<rotationalPeriod>111111</rotationalPeriod>
+				<atmosphereDensity>17</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-34" DIMID="34">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.78891563,0.65388274,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>73</orbitalDistance>
+			<orbitalPhi>-2</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>35</atmosphereDensity>
+			<biomeIds>voidcraft:voidcraft_biome_xia,abyssalcraft:purified_dreadlands,abyssalcraft:omothol,voidcraft:voidcraft_biome_void</biomeIds>
+			<planet name="Sol-34: 0" DIMID="35">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0016184449,0.77254313,1.0</skyColor>
+				<gravitationalMultiplier>58</gravitationalMultiplier>
+				<orbitalDistance>159</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>116857</rotationalPeriod>
+				<atmosphereDensity>21</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-4" DIMID="4">
+			<isKnown>false</isKnown>
+			<GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+			<gas>hydrogen</gas>
+			<gas>oxygen</gas>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>112</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>144</atmosphereDensity>
+			<planet name="Sol-4: 0" DIMID="6">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.5402089,0.73112345,1.0</skyColor>
+				<gravitationalMultiplier>75</gravitationalMultiplier>
+				<orbitalDistance>104</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>56888</rotationalPeriod>
+				<atmosphereDensity>33</atmosphereDensity>
+				<biomeIds>abyssalcraft:darklands_mountains,abyssalcraft:coralium_infested_swamp,voidcraft:voidcraft_biome_void,buildcraftenergy:oil_ocean</biomeIds>
+			</planet>
+			<planet name="Sol-4: 1" DIMID="7">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.97927594,1.0</skyColor>
+				<gravitationalMultiplier>47</gravitationalMultiplier>
+				<orbitalDistance>188</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>231162</rotationalPeriod>
+				<atmosphereDensity>30</atmosphereDensity>
+				<biomeIds>abyssalcraft:darklands_plains,advancedrocketry:deepswamp,voidcraft:voidcraft_biome_xia,abyssalcraft:darklands_forest,voidcraft:voidcraft_biome_dream_nether</biomeIds>
+			</planet>
+			<planet name="Sol-4: 2" DIMID="8">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.019890249,0.7645039,1.0</skyColor>
+				<gravitationalMultiplier>58</gravitationalMultiplier>
+				<orbitalDistance>174</orbitalDistance>
+				<orbitalPhi>-5</orbitalPhi>
+				<rotationalPeriod>123006</rotationalPeriod>
+				<atmosphereDensity>25</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-4: 3" DIMID="9">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.5348897,1.0</skyColor>
+				<gravitationalMultiplier>52</gravitationalMultiplier>
+				<orbitalDistance>200</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>161206</rotationalPeriod>
+				<atmosphereDensity>34</atmosphereDensity>
+				<biomeIds>abyssalcraft:coralium_infested_swamp,abyssalcraft:darklands_plains,abyssalcraft:dreadlands_mountains,abyssalcraft:dreadlands,abyssalcraft:omothol</biomeIds>
+			</planet>
+			<planet name="Sol-4: 4" DIMID="11">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.55974215,0.6410842,1.0</skyColor>
+				<gravitationalMultiplier>71</gravitationalMultiplier>
+				<orbitalDistance>107</orbitalDistance>
+				<orbitalPhi>1</orbitalPhi>
+				<rotationalPeriod>67055</rotationalPeriod>
+				<atmosphereDensity>36</atmosphereDensity>
+				<biomeIds>abyssalcraft:coralium_infested_swamp,abyssalcraft:dreadlands,beneath:the_beneath,voidcraft:voidcraft_biome_void,abyssalcraft:dreadlands_forest</biomeIds>
+			</planet>
+			<planet name="Sol-4: 5" DIMID="12">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.15069729,0.6315155,1.0</skyColor>
+				<gravitationalMultiplier>62</gravitationalMultiplier>
+				<orbitalDistance>154</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>100701</rotationalPeriod>
+				<atmosphereDensity>33</atmosphereDensity>
+				<biomeIds>voidcraft:voidcraft_biome_dream_void,abyssalcraft:darklands_hills,abyssalcraft:dreadlands_mountains,abyssalcraft:abyssal_wastelands,buildcraftenergy:oil_ocean</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-20" DIMID="20">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.0,0.9550698,1.0</skyColor>
+			<gravitationalMultiplier>125</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>12288</rotationalPeriod>
+			<atmosphereDensity>0</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon</biomeIds>
+			<planet name="Sol-20: 0" DIMID="21">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.6183927,1.0</skyColor>
+				<gravitationalMultiplier>48</gravitationalMultiplier>
+				<orbitalDistance>200</orbitalDistance>
+				<orbitalPhi>5</orbitalPhi>
+				<rotationalPeriod>217013</rotationalPeriod>
+				<atmosphereDensity>35</atmosphereDensity>
+				<biomeIds>abyssalcraft:omothol,abyssalcraft:abyssal_wastelands,abyssalcraft:dreadlands_forest,voidcraft:voidcraft_biome_dream_overworld,advancedrocketry:oceanspires</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-22" DIMID="22">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.6596419,0.45772606</skyColor>
+			<gravitationalMultiplier>104</gravitationalMultiplier>
+			<orbitalDistance>149</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>20150</rotationalPeriod>
+			<atmosphereDensity>165</atmosphereDensity>
+			<biomeIds>voidcraft:voidcraft_biome_dream_end,abyssalcraft:omothol,buildcraftenergy:oil_ocean,beneath:the_beneath,voidcraft:voidcraft_biome_dream_void,advancedrocketry:stormland,advancedrocketry:hotdryrock</biomeIds>
+		</planet>
+		<planet name="Sol-23" DIMID="23">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.72663873,0.30096745</skyColor>
+			<gravitationalMultiplier>108</gravitationalMultiplier>
+			<orbitalDistance>71</orbitalDistance>
+			<orbitalPhi>2</orbitalPhi>
+			<rotationalPeriod>19051</rotationalPeriod>
+			<atmosphereDensity>117</atmosphereDensity>
+			<biomeIds>buildcraftenergy:oil_ocean,buildcraftenergy:oil_desert,advancedrocketry:deepswamp</biomeIds>
+			<planet name="Sol-23: 0" DIMID="24">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.5785097,0.78358746,1.0</skyColor>
+				<gravitationalMultiplier>36</gravitationalMultiplier>
+				<orbitalDistance>110</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>514403</rotationalPeriod>
+				<atmosphereDensity>36</atmosphereDensity>
+				<biomeIds>abyssalcraft:omothol,advancedrocketry:oceanspires,voidcraft:voidcraft_biome_dream_void,advancedrocketry:deepswamp,voidcraft:voidcraft_biome_dream_overworld</biomeIds>
+			</planet>
+			<planet name="Sol-23: 1" DIMID="25">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.16075313,0.7303794,1.0</skyColor>
+				<gravitationalMultiplier>43</gravitationalMultiplier>
+				<orbitalDistance>166</orbitalDistance>
+				<orbitalPhi>-6</orbitalPhi>
+				<rotationalPeriod>301860</rotationalPeriod>
+				<atmosphereDensity>34</atmosphereDensity>
+				<biomeIds>abyssalcraft:abyssal_wastelands,abyssalcraft:darklands_plains,abyssalcraft:darklands,voidcraft:voidcraft_biome_dream_end</biomeIds>
+			</planet>
+			<planet name="Sol-23: 2" DIMID="26">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.5673462,1.0</skyColor>
+				<gravitationalMultiplier>54</gravitationalMultiplier>
+				<orbitalDistance>200</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>152415</rotationalPeriod>
+				<atmosphereDensity>29</atmosphereDensity>
+				<biomeIds>buildcraftenergy:oil_desert,voidcraft:voidcraft_biome_void,advancedrocketry:marsh,voidcraft:voidcraft_biome_xia</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-27" DIMID="27">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.18692958,0.7259098,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>159</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>34</atmosphereDensity>
+			<biomeIds>abyssalcraft:dreadlands_forest,advancedrocketry:deepswamp,beneath:the_beneath,abyssalcraft:coralium_infested_swamp,abyssalcraft:dreadlands</biomeIds>
+			<planet name="Sol-27: 0" DIMID="28">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.5972398,0.5972371,1.0</skyColor>
+				<gravitationalMultiplier>88</gravitationalMultiplier>
+				<orbitalDistance>110</orbitalDistance>
+				<orbitalPhi>-11</orbitalPhi>
+				<rotationalPeriod>35217</rotationalPeriod>
+				<atmosphereDensity>37</atmosphereDensity>
+				<biomeIds>abyssalcraft:purified_dreadlands,abyssalcraft:abyssal_wastelands,abyssalcraft:coralium_infested_swamp,voidcraft:voidcraft_biome_dream_overworld,voidcraft:voidcraft_biome_dream_void</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-13" DIMID="13">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.5666393,0.0</skyColor>
+			<gravitationalMultiplier>104</gravitationalMultiplier>
+			<orbitalDistance>12</orbitalDistance>
+			<orbitalPhi>2</orbitalPhi>
+			<rotationalPeriod>21335</rotationalPeriod>
+			<atmosphereDensity>158</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+			<planet name="Sol-13: 2" DIMID="16">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.19102108,0.81842893,1.0</skyColor>
+				<gravitationalMultiplier>64</gravitationalMultiplier>
+				<orbitalDistance>148</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>91552</rotationalPeriod>
+				<atmosphereDensity>32</atmosphereDensity>
+				<biomeIds>abyssalcraft:dreadlands_forest,voidcraft:voidcraft_biome_dream_void,abyssalcraft:dreadlands,voidcraft:voidcraft_biome_dream_end</biomeIds>
+			</planet>
+			<planet name="Sol-13: 0" DIMID="14">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.6614332,1.0</skyColor>
+				<gravitationalMultiplier>35</gravitationalMultiplier>
+				<orbitalDistance>196</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>559766</rotationalPeriod>
+				<atmosphereDensity>33</atmosphereDensity>
+				<biomeIds>voidcraft:voidcraft_biome_dream_void,advancedrocketry:oceanspires,abyssalcraft:dreadlands,beneath:the_beneath</biomeIds>
+			</planet>
+			<planet name="Sol-13: 1" DIMID="15">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.36784178,0.7466916,1.0</skyColor>
+				<gravitationalMultiplier>71</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>-7</orbitalPhi>
+				<rotationalPeriod>67055</rotationalPeriod>
+				<atmosphereDensity>33</atmosphereDensity>
+				<biomeIds>abyssalcraft:dreadlands_mountains,voidcraft:voidcraft_biome_xia,abyssalcraft:darklands_hills,abyssalcraft:omothol,abyssalcraft:dreadlands</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-29" DIMID="29">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.6093661,0.21940058</skyColor>
+			<gravitationalMultiplier>108</gravitationalMultiplier>
+			<orbitalDistance>153</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>19051</rotationalPeriod>
+			<atmosphereDensity>199</atmosphereDensity>
+			<biomeIds>buildcraftenergy:oil_ocean,buildcraftenergy:oil_desert,advancedrocketry:deepswamp,advancedrocketry:stormland,advancedrocketry:hotdryrock</biomeIds>
+		</planet>
+		<planet name="Sol-30" DIMID="30">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.9619521,0.48255384</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>122</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>143</atmosphereDensity>
+			<biomeIds>voidcraft:voidcraft_biome_dream_overworld,minecraft:deep_ocean,voidcraft:voidcraft_biome_xia,abyssalcraft:abyssal_wastelands,advancedrocketry:stormland,advancedrocketry:hotdryrock</biomeIds>
+			<planet name="Sol-30: 1" DIMID="32">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.69003123,1.0</skyColor>
+				<gravitationalMultiplier>72</gravitationalMultiplier>
+				<orbitalDistance>165</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>64300</rotationalPeriod>
+				<atmosphereDensity>16</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-30: 2" DIMID="33">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.095398545,0.89314127,1.0</skyColor>
+				<gravitationalMultiplier>62</gravitationalMultiplier>
+				<orbitalDistance>170</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>100701</rotationalPeriod>
+				<atmosphereDensity>34</atmosphereDensity>
+				<biomeIds>buildcraftenergy:oil_ocean,abyssalcraft:abyssal_wastelands,advancedrocketry:marsh,advancedrocketry:alien forest,abyssalcraft:darklands_mountains</biomeIds>
+			</planet>
+			<planet name="Sol-30: 0" DIMID="31">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.5135311,0.8731868,1.0</skyColor>
+				<gravitationalMultiplier>64</gravitationalMultiplier>
+				<orbitalDistance>114</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>91552</rotationalPeriod>
+				<atmosphereDensity>37</atmosphereDensity>
+				<biomeIds>abyssalcraft:abyssal_wastelands,abyssalcraft:dreadlands_mountains,abyssalcraft:dreadlands_forest,buildcraftenergy:oil_desert</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Wolf 12" temp="10" x="300" y="-200" size="1.0" numPlanets="0" numGasGiants="0" >
+		<planet name="Sol-36" DIMID="36">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.88737714,0.0</skyColor>
+			<gravitationalMultiplier>122</gravitationalMultiplier>
+			<orbitalDistance>97</orbitalDistance>
+			<orbitalPhi>5</orbitalPhi>
+			<rotationalPeriod>13216</rotationalPeriod>
+			<atmosphereDensity>200</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+			<planet name="Sol-36: 0" DIMID="37">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.19524729,0.666791,1.0</skyColor>
+				<gravitationalMultiplier>56</gravitationalMultiplier>
+				<orbitalDistance>151</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>136661</rotationalPeriod>
+				<atmosphereDensity>31</atmosphereDensity>
+				<biomeIds>abyssalcraft:darklands_mountains,abyssalcraft:darklands_hills,abyssalcraft:dreadlands_forest,advancedrocketry:marsh,abyssalcraft:dreadlands</biomeIds>
+			</planet>
+			<planet name="Sol-36: 1" DIMID="38">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.62806,1.0</skyColor>
+				<gravitationalMultiplier>81</gravitationalMultiplier>
+				<orbitalDistance>168</orbitalDistance>
+				<orbitalPhi>-3</orbitalPhi>
+				<rotationalPeriod>45160</rotationalPeriod>
+				<atmosphereDensity>14</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-36: 2" DIMID="39">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.889507,1.0</skyColor>
+				<gravitationalMultiplier>70</gravitationalMultiplier>
+				<orbitalDistance>184</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>69970</rotationalPeriod>
+				<atmosphereDensity>33</atmosphereDensity>
+				<biomeIds>abyssalcraft:abyssal_wastelands,buildcraftenergy:oil_ocean,voidcraft:voidcraft_biome_xia,advancedrocketry:alien forest</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-55" DIMID="55">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.93022776,0.0</skyColor>
+			<gravitationalMultiplier>89</gravitationalMultiplier>
+			<orbitalDistance>30</orbitalDistance>
+			<orbitalPhi>-4</orbitalPhi>
+			<rotationalPeriod>34044</rotationalPeriod>
+			<atmosphereDensity>141</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+		</planet>
+		<planet name="Sol-40" DIMID="40">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.75091004,0.76483107</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>120</orbitalDistance>
+			<orbitalPhi>-3</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>115</atmosphereDensity>
+			<biomeIds>abyssalcraft:omothol,abyssalcraft:abyssal_wastelands,buildcraftenergy:oil_ocean,beneath:the_beneath,abyssalcraft:dreadlands_mountains</biomeIds>
+			<planet name="Sol-40: 0" DIMID="41">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.87677604,1.0</skyColor>
+				<gravitationalMultiplier>63</gravitationalMultiplier>
+				<orbitalDistance>174</orbitalDistance>
+				<orbitalPhi>-4</orbitalPhi>
+				<rotationalPeriod>95981</rotationalPeriod>
+				<atmosphereDensity>14</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-40: 1" DIMID="42">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.99887145,1.0</skyColor>
+				<gravitationalMultiplier>85</gravitationalMultiplier>
+				<orbitalDistance>166</orbitalDistance>
+				<orbitalPhi>2</orbitalPhi>
+				<rotationalPeriod>39079</rotationalPeriod>
+				<atmosphereDensity>20</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-43" DIMID="43">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.4201241,0.88981086,1.0</skyColor>
+			<gravitationalMultiplier>120</gravitationalMultiplier>
+			<orbitalDistance>163</orbitalDistance>
+			<orbitalPhi>-3</orbitalPhi>
+			<rotationalPeriod>13888</rotationalPeriod>
+			<atmosphereDensity>68</atmosphereDensity>
+			<biomeIds>voidcraft:voidcraft_biome_dream_end,advancedrocketry:marsh,buildcraftenergy:oil_desert</biomeIds>
+			<planet name="Sol-43: 0" DIMID="44">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.6472398,1.0</skyColor>
+				<gravitationalMultiplier>71</gravitationalMultiplier>
+				<orbitalDistance>174</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>67055</rotationalPeriod>
+				<atmosphereDensity>14</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-43: 1" DIMID="45">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.8423893,1.0</skyColor>
+				<gravitationalMultiplier>65</gravitationalMultiplier>
+				<orbitalDistance>185</orbitalDistance>
+				<orbitalPhi>2</orbitalPhi>
+				<rotationalPeriod>87391</rotationalPeriod>
+				<atmosphereDensity>15</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-43: 2" DIMID="46">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.9223193,1.0</skyColor>
+				<gravitationalMultiplier>58</gravitationalMultiplier>
+				<orbitalDistance>171</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>116857</rotationalPeriod>
+				<atmosphereDensity>16</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-47" DIMID="47">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.94249356,0.0</skyColor>
+			<gravitationalMultiplier>101</gravitationalMultiplier>
+			<orbitalDistance>82</orbitalDistance>
+			<orbitalPhi>-7</orbitalPhi>
+			<rotationalPeriod>23294</rotationalPeriod>
+			<atmosphereDensity>198</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+			<planet name="Sol-47: 0" DIMID="48">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.21728504,0.5772175,1.0</skyColor>
+				<gravitationalMultiplier>58</gravitationalMultiplier>
+				<orbitalDistance>148</orbitalDistance>
+				<orbitalPhi>-3</orbitalPhi>
+				<rotationalPeriod>116857</rotationalPeriod>
+				<atmosphereDensity>36</atmosphereDensity>
+				<biomeIds>voidcraft:voidcraft_biome_xia,abyssalcraft:dreadlands_forest,voidcraft:voidcraft_biome_void,voidcraft:voidcraft_biome_dream_void,abyssalcraft:darklands</biomeIds>
+			</planet>
+			<planet name="Sol-47: 1" DIMID="49">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.28618103,0.5742977,1.0</skyColor>
+				<gravitationalMultiplier>33</gravitationalMultiplier>
+				<orbitalDistance>127</orbitalDistance>
+				<orbitalPhi>2</orbitalPhi>
+				<rotationalPeriod>667835</rotationalPeriod>
+				<atmosphereDensity>25</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-47: 2" DIMID="54">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.5975294,1.0</skyColor>
+				<gravitationalMultiplier>63</gravitationalMultiplier>
+				<orbitalDistance>167</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>95981</rotationalPeriod>
+				<atmosphereDensity>19</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Epsilon ire" temp="170" x="-200" y="80" size="1.0" numPlanets="0" numGasGiants="0" >
+		<planet name="Sol-66" DIMID="66">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.72532016,0.81332844</skyColor>
+			<gravitationalMultiplier>98</gravitationalMultiplier>
+			<orbitalDistance>84</orbitalDistance>
+			<orbitalPhi>-2</orbitalPhi>
+			<rotationalPeriod>25499</rotationalPeriod>
+			<atmosphereDensity>66</atmosphereDensity>
+			<biomeIds>abyssalcraft:abyssal_wastelands,abyssalcraft:darklands_forest,abyssalcraft:dreadlands_forest,abyssalcraft:darklands_plains,abyssalcraft:dreadlands_mountains</biomeIds>
+		</planet>
+		<planet name="Sol-67" DIMID="67">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.50449777,0.6564425,1.0</skyColor>
+			<gravitationalMultiplier>98</gravitationalMultiplier>
+			<orbitalDistance>165</orbitalDistance>
+			<orbitalPhi>-4</orbitalPhi>
+			<rotationalPeriod>25499</rotationalPeriod>
+			<atmosphereDensity>70</atmosphereDensity>
+			<biomeIds>advancedrocketry:oceanspires,buildcraftenergy:oil_ocean,abyssalcraft:darklands_forest,abyssalcraft:abyssal_wastelands</biomeIds>
+		</planet>
+		<planet name="Sol-68" DIMID="68">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.93037665,0.0</skyColor>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>115</orbitalDistance>
+			<orbitalPhi>1</orbitalPhi>
+			<rotationalPeriod>18031</rotationalPeriod>
+			<atmosphereDensity>200</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+		</planet>
+		<planet name="Sol-56" DIMID="56">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.5745362,0.0</skyColor>
+			<gravitationalMultiplier>92</gravitationalMultiplier>
+			<orbitalDistance>3</orbitalDistance>
+			<orbitalPhi>-3</orbitalPhi>
+			<rotationalPeriod>30821</rotationalPeriod>
+			<atmosphereDensity>130</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+		</planet>
+		<planet name="Sol-57" DIMID="57">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.8461282,0.81391275</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>135</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>113</atmosphereDensity>
+			<biomeIds>voidcraft:voidcraft_biome_void,abyssalcraft:abyssal_wastelands,abyssalcraft:omothol,abyssalcraft:coralium_infested_swamp,voidcraft:voidcraft_biome_dream_nether</biomeIds>
+			<planet name="Sol-57: 0" DIMID="58">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.3259986,0.8107592,1.0</skyColor>
+				<gravitationalMultiplier>68</gravitationalMultiplier>
+				<orbitalDistance>139</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>76328</rotationalPeriod>
+				<atmosphereDensity>35</atmosphereDensity>
+				<biomeIds>advancedrocketry:alien forest,abyssalcraft:omothol,abyssalcraft:purified_dreadlands,abyssalcraft:dreadlands,beneath:the_beneath</biomeIds>
+			</planet>
+			<planet name="Sol-57: 1" DIMID="59">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.31539577,0.8880446,1.0</skyColor>
+				<gravitationalMultiplier>50</gravitationalMultiplier>
+				<orbitalDistance>128</orbitalDistance>
+				<orbitalPhi>-8</orbitalPhi>
+				<rotationalPeriod>192000</rotationalPeriod>
+				<atmosphereDensity>18</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-57: 2" DIMID="60">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.80616724,1.0</skyColor>
+				<gravitationalMultiplier>86</gravitationalMultiplier>
+				<orbitalDistance>186</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>37732</rotationalPeriod>
+				<atmosphereDensity>24</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-61" DIMID="61">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.0,0.81944466,1.0</skyColor>
+			<gravitationalMultiplier>91</gravitationalMultiplier>
+			<orbitalDistance>155</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>31848</rotationalPeriod>
+			<atmosphereDensity>0</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon</biomeIds>
+		</planet>
+		<planet name="Sol-62" DIMID="62">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.6795057,0.5789118</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>161</orbitalDistance>
+			<orbitalPhi>-2</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>161</atmosphereDensity>
+			<biomeIds>abyssalcraft:dreadlands,voidcraft:voidcraft_biome_dream_overworld,buildcraftenergy:oil_desert,abyssalcraft:purified_dreadlands,advancedrocketry:stormland,advancedrocketry:hotdryrock</biomeIds>
+			<planet name="Sol-62: 1" DIMID="64">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.71239436,1.0</skyColor>
+				<gravitationalMultiplier>45</gravitationalMultiplier>
+				<orbitalDistance>191</orbitalDistance>
+				<orbitalPhi>-5</orbitalPhi>
+				<rotationalPeriod>263374</rotationalPeriod>
+				<atmosphereDensity>17</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-62: 2" DIMID="65">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.54861903,0.7254137,1.0</skyColor>
+				<gravitationalMultiplier>61</gravitationalMultiplier>
+				<orbitalDistance>108</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>105735</rotationalPeriod>
+				<atmosphereDensity>35</atmosphereDensity>
+				<biomeIds>abyssalcraft:abyssal_wastelands,abyssalcraft:dreadlands_forest,buildcraftenergy:oil_ocean,beneath:the_beneath</biomeIds>
+			</planet>
+			<planet name="Sol-62: 0" DIMID="63">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.9770733,1.0</skyColor>
+				<gravitationalMultiplier>63</gravitationalMultiplier>
+				<orbitalDistance>197</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>95981</rotationalPeriod>
+				<atmosphereDensity>24</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+	</star>
+	<star name="Proxima Centaurs" temp="200" x="-150" y="250" size="1.0" numPlanets="0" numGasGiants="0" >
+		<planet name="Sol-69" DIMID="69">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.5485618,0.0</skyColor>
+			<gravitationalMultiplier>97</gravitationalMultiplier>
+			<orbitalDistance>2</orbitalDistance>
+			<orbitalPhi>-1</orbitalPhi>
+			<rotationalPeriod>26296</rotationalPeriod>
+			<atmosphereDensity>168</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+		</planet>
+		<planet name="Sol-70" DIMID="70">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.76250327,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>157</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>101</atmosphereDensity>
+			<biomeIds>minecraft:frozen_ocean,minecraft:deep_ocean,abyssalcraft:darklands_plains,abyssalcraft:dreadlands_mountains,abyssalcraft:dreadlands</biomeIds>
+			<planet name="Sol-70: 0" DIMID="71">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.14711225,0.6369125,1.0</skyColor>
+				<gravitationalMultiplier>44</gravitationalMultiplier>
+				<orbitalDistance>173</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>281743</rotationalPeriod>
+				<atmosphereDensity>36</atmosphereDensity>
+				<biomeIds>voidcraft:voidcraft_biome_dream_end,advancedrocketry:oceanspires,abyssalcraft:dreadlands_mountains</biomeIds>
+			</planet>
+			<planet name="Sol-70: 1" DIMID="72">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.48071247,0.92205775,1.0</skyColor>
+				<gravitationalMultiplier>44</gravitationalMultiplier>
+				<orbitalDistance>107</orbitalDistance>
+				<orbitalPhi>-2</orbitalPhi>
+				<rotationalPeriod>281743</rotationalPeriod>
+				<atmosphereDensity>23</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-70: 2" DIMID="73">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.3527143,0.6286267,1.0</skyColor>
+				<gravitationalMultiplier>58</gravitationalMultiplier>
+				<orbitalDistance>119</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>116857</rotationalPeriod>
+				<atmosphereDensity>15</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Sol-74" DIMID="74">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.15482378,0.74904287,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>61</atmosphereDensity>
+			<biomeIds>abyssalcraft:omothol,voidcraft:voidcraft_biome_dream_overworld,buildcraftenergy:oil_desert,abyssalcraft:darklands_forest,advancedrocketry:oceanspires</biomeIds>
+		</planet>
+	</star>
+	<star name="Magnis Vulpes" temp="70" x="-150" y="-250" size="1.0" numPlanets="0" numGasGiants="0" >
+		<planet name="Sol-75" DIMID="75">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.7822232,0.2864341</skyColor>
+			<gravitationalMultiplier>89</gravitationalMultiplier>
+			<orbitalDistance>71</orbitalDistance>
+			<orbitalPhi>1</orbitalPhi>
+			<rotationalPeriod>34044</rotationalPeriod>
+			<atmosphereDensity>121</atmosphereDensity>
+			<biomeIds>buildcraftenergy:oil_ocean,buildcraftenergy:oil_desert,advancedrocketry:deepswamp</biomeIds>
+		</planet>
+		<planet name="Sol-76" DIMID="76">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.6202675,1.0</skyColor>
+			<gravitationalMultiplier>130</gravitationalMultiplier>
+			<orbitalDistance>159</orbitalDistance>
+			<orbitalPhi>-6</orbitalPhi>
+			<rotationalPeriod>10923</rotationalPeriod>
+			<atmosphereDensity>107</atmosphereDensity>
+			<biomeIds>abyssalcraft:purified_dreadlands,advancedrocketry:oceanspires,abyssalcraft:darklands,buildcraftenergy:oil_ocean,abyssalcraft:darklands_hills</biomeIds>
+			<planet name="Sol-76: 0" DIMID="77">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.075574934,0.5066626,1.0</skyColor>
+				<gravitationalMultiplier>87</gravitationalMultiplier>
+				<orbitalDistance>172</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>36446</rotationalPeriod>
+				<atmosphereDensity>34</atmosphereDensity>
+				<biomeIds>voidcraft:voidcraft_biome_dream_end,voidcraft:voidcraft_biome_dream_nether,abyssalcraft:dreadlands_mountains,advancedrocketry:alien forest,voidcraft:voidcraft_biome_xia</biomeIds>
+			</planet>
+			<planet name="Sol-76: 1" DIMID="78">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.54601884,1.0</skyColor>
+				<gravitationalMultiplier>46</gravitationalMultiplier>
+				<orbitalDistance>157</orbitalDistance>
+				<orbitalPhi>-1</orbitalPhi>
+				<rotationalPeriod>246568</rotationalPeriod>
+				<atmosphereDensity>16</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+			<planet name="Sol-76: 2" DIMID="79">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.4841603,0.9119106,1.0</skyColor>
+				<gravitationalMultiplier>63</gravitationalMultiplier>
+				<orbitalDistance>102</orbitalDistance>
+				<orbitalPhi>3</orbitalPhi>
+				<rotationalPeriod>95981</rotationalPeriod>
+				<atmosphereDensity>24</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon</biomeIds>
+			</planet>
+		</planet>
+	</star>
+</galaxy>
