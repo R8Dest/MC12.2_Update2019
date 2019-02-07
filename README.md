@@ -1,7 +1,8 @@
 # MC12.2_Update2019
-Minecraft Client files for Modded pack
+Minecraft Client files for Modded pack 12.2 Originally created 02/01/18
+Updated 11/28/18
 
-Big Ticket Items:
+Current Big Ticket Items:
 1. Create Oregen for all ore types: Create oregen rules for each ore type, biome specific with rarities
 	- Vanilla
 	- Tin: Done -> all biomes, not rare
@@ -13,6 +14,7 @@ Big Ticket Items:
 	- Magnesium: TBD 
 	- Lithium: 50% -> Spawns in other dimensions, not normally availible, added recipe's for synthisising from coralium and high energy requirement materials. 
 	- Aluminum: TBD
+	- Dilithium: TBD
 2. Biome Generation / Control for all dimensions/planets
 3. Tech Tree for 'Tech': 90%
 4. Tech Tree for 'magic': TBD
