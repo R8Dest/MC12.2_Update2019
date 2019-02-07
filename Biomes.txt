@@ -1,0 +1,96 @@
+Biomes:
+-minecraft:ocean	Ocean
+-minecraft:plains	Plains
+-minecraft:desert	Desert
+-minecraft:extreme_hills	Extreme Hills
+-minecraft:forest	Forest
+-minecraft:taiga	Taiga
+-minecraft:swampland	Swampland
+-minecraft:river	River
+-minecraft:hell	Hell
+-minecraft:sky	The End
+-minecraft:frozen_ocean	FrozenOcean
+-minecraft:frozen_river	FrozenRiver
+-minecraft:ice_flats	Ice Plains
+-minecraft:ice_mountains	Ice Mountains
+-minecraft:mushroom_island	MushroomIsland
+-minecraft:mushroom_island_shore	MushroomIslandShore
+-minecraft:beaches	Beach
+-minecraft:desert_hills	DesertHills
+-minecraft:forest_hills	ForestHills
+-minecraft:taiga_hills	TaigaHills
+-minecraft:smaller_extreme_hills	Extreme Hills Edge
+-minecraft:jungle	Jungle
+-minecraft:jungle_hills	JungleHills
+-minecraft:jungle_edge	JungleEdge
+-minecraft:deep_ocean	Deep Ocean
+-minecraft:stone_beach	Stone Beach
+-minecraft:cold_beach	Cold Beach
+-minecraft:birch_forest	Birch Forest
+-minecraft:birch_forest_hills	Birch Forest Hills
+-minecraft:roofed_forest	Roofed Forest
+-minecraft:taiga_cold	Cold Taiga
+-minecraft:taiga_cold_hills	Cold Taiga Hills
+-minecraft:redwood_taiga	Mega Taiga
+-minecraft:redwood_taiga_hills	Mega Taiga Hills
+-minecraft:extreme_hills_with_trees	Extreme Hills+
+-minecraft:savanna	Savanna
+-minecraft:savanna_rock	Savanna Plateau
+-minecraft:mesa	Mesa
+-minecraft:mesa_rock	Mesa Plateau F
+-minecraft:mesa_clear_rock	Mesa Plateau
+-harshenuniverse:pontus	Pontus
+-harshenuniverse:pontus_chaotic	Pontus_Chaotic
+-harshenuniverse:pontus_far	Pontus_Far
+-appliedenergistics2:storage_biome	Storage Cell
+-buildcraftenergy:oil_ocean	Ocean Oil Field
+-buildcraftenergy:oil_desert	Desert Oil Field
+-erebus:underground_jungle	Underground Jungle
+-erebus:volcanic_desert	Volcanic Desert
+-erebus:subterranean_savannah	Subterranean Savannah
+-erebus:elysian_fields	Elysian Fields
+-erebus:ulterior_outback	Ulterior Outback
+-erebus:fungal_forest	Fungal Forest
+-erebus:submerged_swamp	Submerged Swamp
+-erebus:fields_sub_forest	Elysian Forest
+-erebus:petrified_forest	Petrified Forest
+-nuclearcraft:nuclear_wasteland	Nuclear Wasteland
+-voidcraft:voidcraft_biome_void	The Void
+-voidcraft:voidcraft_biome_xia	???
+-voidcraft:voidcraft_biome_dream_overworld	Dream Overworld
+-voidcraft:voidcraft_biome_dream_nether	Dream Nether
+-voidcraft:voidcraft_biome_dream_end	Dream End
+-voidcraft:voidcraft_biome_dream_void	Dream Void
+-abyssalcraft:darklands	Darklands
+-abyssalcraft:darklands_forest	Darklands Forest
+-abyssalcraft:darklands_plains	Darklands Plains
+-abyssalcraft:darklands_hills	Darklands Highland
+-abyssalcraft:darklands_mountains	Darklands Mountains
+-abyssalcraft:coralium_infested_swamp	Coralium Infested Swamp
+-abyssalcraft:abyssal_wastelands	Abyssal Wastelands
+-abyssalcraft:dreadlands	Dreadlands
+-abyssalcraft:purified_dreadlands	Purified Dreadlands
+-abyssalcraft:dreadlands_forest	Dreadlands Forest
+-abyssalcraft:dreadlands_mountains	Dreadlands Mountains
+-abyssalcraft:omothol	Omothol
+-abyssalcraft:dark_realm	Dark Realm
+-abyssalcraft:purged	Purged
+-advancedrocketry:moon	Moon
+-advancedrocketry:alien forest	Alien Forest
+-advancedrocketry:hotdryrock	HotDryRock
+-advancedrocketry:space	Space
+-advancedrocketry:stormland	Stormland
+-advancedrocketry:crystalchasms	CrystalChasms
+-advancedrocketry:deepswamp	DeepSwamp
+-advancedrocketry:marsh	Marsh
+-advancedrocketry:oceanspires	OceanSpires
+-advancedrocketry:moondark	MoonDark
+-beneath:the_beneath	The Beneath
+-thebetweenlands:patchy_islands	Patchy Islands
+-thebetweenlands:swamplands	Swamplands
+-thebetweenlands:deep_waters	Deep Waters
+-thebetweenlands:coarse_islands	Coarse Islands
+-thebetweenlands:sludge_plains	Sludge Plains
+-thebetweenlands:marsh_0	Marsh 0
+-thebetweenlands:marsh_1	Marsh 1
+-thebetweenlands:swamplands_clearing	Swamplands Clearing
