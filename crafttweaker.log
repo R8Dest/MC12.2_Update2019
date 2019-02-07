@@ -1,0 +1,88 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: _MKConfigRemovals.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MK_Updates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MKConfigAddons.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: _MKConfigRemovals.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MK_Updates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MKConfigAddons.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: _MKConfigRemovals.zs}
+[INITIALIZATION][CLIENT][INFO] Removing LibVulpes Stuff
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MK_Updates.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Crusher Recipe for Silicon Dust
+[INITIALIZATION][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:steel>
+[INITIALIZATION][CLIENT][INFO] Altering Melting Recipe(s) for <liquid:coal>
+[INITIALIZATION][CLIENT][INFO] Adding Electric Motor to ore dictionary entry electricMotors
+[INITIALIZATION][CLIENT][INFO] Adding Electric Engine to ore dictionary entry electricMotors
+[INITIALIZATION][CLIENT][INFO] Adding Electric Motor to ore dictionary entry electricMotors
+[INITIALIZATION][CLIENT][INFO] Adding Graphite Dust to ore dictionary entry graphiteDusts
+[INITIALIZATION][CLIENT][INFO] Adding HOP Graphite Dust to ore dictionary entry graphiteDusts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MKConfigAddons.zs}
+[INITIALIZATION][CLIENT][INFO] Adding machine recipes
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 304ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ender Pearl with name ct_shaped1868202912
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Solar Panel with name ct_shaped-1947039578
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Powered Quarry with name ct_shaped-292329798
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Circuit Board with name ct_shaped-1127657768
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Carbon Brick with name ct_shaped1539684645
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Block Cutting Blade (Diamond) with name ct_shaped-852551787
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Macerator with name ct_shaped-1334377433
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Reactor Chamber with name ct_shaped502710738
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Small Battery with name ct_shaped-300043677
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Control Circuit Board with name ct_shaped276922248
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Item IO Circuit Board with name ct_shaped-1883532795
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Liquid IO Circuit Board with name ct_shaped-716621147
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for User Interface with name ct_shaped-1799179359
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Structure with name ct_shaped-1454677103
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Machine Structure with name ct_shaped-952249766
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Machine Structure with name ct_shaped1918030866
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Machine Structure with name ct_shaped-1069411719
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Power Input Plug with name ct_shaped1044507551
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Liquid Fuel Tank with name ct_shaped739292993
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Motor with name ct_shaped-1352119653
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Motor with name ct_shaped-475948163
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enhanced Motor with name ct_shaped1958711530
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elite Motor with name ct_shaped-1918978599
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotTitanium>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <ore:ingotTitanium>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotTitaniumIridium>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <ore:ingotTitaniumIridium>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotIridium>
+[POSTINITIALIZATION][CLIENT][INFO] 4 recipes removed for: <ore:ingotIridium>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <ore:ingotTitaniumAluminide>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <ore:ingotTitaniumAluminide>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:coalgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <rftools:coalgenerator>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:dynamo:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thermalexpansion:machine:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:te:55>
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

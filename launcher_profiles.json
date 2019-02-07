@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "enableAdvanced": true,
+    "locale": "en-us",
+    "showMenu": true
+  },
+  "launcherVersion": {
+    "name": "2.1.1462",
+    "format": 21,
+    "profilesFormat": 2
+  },
+  "clientToken": "fe2849a7-cec2-4714-9902-cb74b35a96c2",
+  "profiles": {
+    "e59842a59c2eb6b2515c0571fc3062cb": {
+      "type": "latest-release",
+      "lastUsed": "2017-11-13T00:36:00.896Z"
+    },
+    "dc2b6674935641607d51113f70b024b8": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
+    "ae442dd718fa7e95d050c2dc9dac5fe6": {
+      "name": "Forge 12x",
+      "type": "custom",
+      "created": "2018-12-06T00:43:39.882Z",
+      "lastUsed": "2018-12-06T02:55:11.826Z",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768",
+      "gameDir": "C:/Users\\Mat\\AppData\\Roaming\\.minecraft",
+      "javaArgs": "-Xmx5G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M"
+    },
+    "82ab823d3a941d514c081290ead8fac2": {
+      "name": "12 forge",
+      "type": "custom",
+      "created": "2017-11-13T00:36:07.396Z",
+      "lastUsed": "2018-12-06T00:43:01.090Z",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.5.2768",
+      "javaArgs": "-Xmx5G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M"
+    },
+    "forge": {
+      "name": "forge",
+      "type": "custom",
+      "created": "2017-08-28T23:30:08.870Z",
+      "lastUsed": "2017-08-29T02:44:41.380Z",
+      "lastVersionId": "1.10.2-forge1.10.2-12.18.3.2185",
+      "gameDir": "C:/Users\\Mat\\Desktop\\V10\\VIVE 10",
+      "javaArgs": "-Xmx6G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M"
+    },
+    "dcc0bd2e0b40bf6a6974ad9e9c3946c6": {
+      "name": "10.2",
+      "type": "custom",
+      "created": "2017-07-25T03:51:36.105Z",
+      "lastUsed": "2017-08-28T22:32:37.758Z",
+      "lastVersionId": "1.10.2",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
+    },
+    "Forge": {
+      "name": "Forge",
+      "type": "custom",
+      "created": "1970-01-01T00:00:00.002Z",
+      "lastUsed": "1970-01-01T00:00:00.002Z",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10"
+    },
+    "R8Dest": {
+      "name": "R8Dest",
+      "type": "custom",
+      "created": "1970-01-01T00:00:00.002Z",
+      "lastUsed": "2017-07-25T03:29:44.427Z",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
+    }
+  },
+  "analyticsFailcount": 0,
+  "selectedUser": {
+    "account": "08b331d5d31b4828bd4236601456ea2d",
+    "profile": "b8df7e1ee6e643bda3c60f4896193c47"
+  },
+  "analyticsToken": "f162c2bf1f458fc3a6bce922430f73e8",
+  "authenticationDatabase": {
+    "08b331d5d31b4828bd4236601456ea2d": {
+      "accessToken": "7a2553a2f788431da0683c02856c6f0d",
+      "username": "r8dest@gmail.com",
+      "profiles": {
+        "b8df7e1ee6e643bda3c60f4896193c47": {
+          "displayName": "R8Dest"
+        }
+      }
+    }
+  }
+}

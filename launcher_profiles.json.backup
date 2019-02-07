@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10"
+    },
+    "R8Dest": {
+      "name": "R8Dest",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
+    }
+  },
+  "selectedProfile": "R8Dest",
+  "clientToken": "fe2849a7-cec2-4714-9902-cb74b35a96c2",
+  "authenticationDatabase": {
+    "b8df7e1ee6e643bda3c60f4896193c47": {
+      "displayName": "R8Dest",
+      "accessToken": "15ff9e0c5c4b48359f91ae27f9a74f8d",
+      "userid": "08b331d5d31b4828bd4236601456ea2d",
+      "uuid": "b8df7e1e-e6e6-43bd-a3c6-0f4896193c47",
+      "username": "r8dest@gmail.com"
+    }
+  },
+  "selectedUser": "b8df7e1ee6e643bda3c60f4896193c47",
+  "launcherVersion": {
+    "name": "1.6.61",
+    "format": 18
+  }
+}
