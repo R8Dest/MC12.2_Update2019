@@ -60,3 +60,6 @@ Notes:
 	oil sand oregen
 	coal in swamps
 	look into making titanium, make it harder
+	
+	02/07/19
+	reduce oil well spawns in favor of oil sands. 
