@@ -18,6 +18,8 @@ Current Big Ticket Items:
 2. Biome Generation / Control for all dimensions/planets
 3. Tech Tree for 'Tech': 90%
 4. Tech Tree for 'magic': TBD
+5. Block Hardness
+6. Third 'tech tree' for Farming? 
 
 Done:
 (many things before this),
@@ -28,6 +30,11 @@ petro for rocket fuel,
 lithium is not really found in nature, could come from coralum liquid,
 pulped biomass -> bioplastic, get pulped biomass from crushed plants,
 petroleum + hydrogen = rocket fuel, disable old rocket fuel
+
+For Line Item 6:
+	- Hydroponics?
+	- large size farming
+	- Add Nutrition mechanic? -> Food is almost a non-issue with tech-guns installed, I dont want to disable that feature, but it does present a problem. 
 
 Notes:
 	12/01/18
