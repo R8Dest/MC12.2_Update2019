@@ -1,16 +1,28 @@
 # MC12.2_Update2019
 Minecraft Client files for Modded pack
 
+Big Ticket Items:
+1. Create Oregen for all ore types: Create oregen rules for each ore type, biome specific with rarities
+	- Vanilla
+	- Tin: Done -> all biomes, not rare
+	- Iron: Done -> all biomes, not rare
+	- Copper: Done -> all biomes, not rare
+	- Uranium: Done -> all biomes (very rare)
+	- Rutile (Titanium) -> all biomes (very rare) + desert (not rare). 
+	- Boron: TBD
+	- Magnesium: TBD 
+	- Lithium: 50% -> Spawns in other dimensions, not normally availible, added recipe's for synthisising from coralium and high energy requirement materials. 
+	- Aluminum: TBD
+	
 
 Done:
-(many things before this)
-
-Rutile in desert
-copper less
-new macerator
-petro for rocket fuel
-lithium is not really found in nature, could come from coralum liquid
-pulped biomass -> bioplastic, get pulped biomass from crushed plants
+(many things before this),
+Rutile in desert,
+copper less,
+new macerator,
+petro for rocket fuel,
+lithium is not really found in nature, could come from coralum liquid,
+pulped biomass -> bioplastic, get pulped biomass from crushed plants,
 petroleum + hydrogen = rocket fuel, disable old rocket fuel
 
 12/01/18
