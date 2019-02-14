@@ -16,10 +16,14 @@ Current Big Ticket Items:
 	- Aluminum: TBD
 	- Dilithium: TBD
 2. Biome Generation / Control for all dimensions/planets
+	- Mostly Done: Added massive worldgen overhaul. 
 3. Tech Tree for 'Tech': 90%
 4. Tech Tree for 'magic': TBD
 5. Block Hardness
+	- 80%: Block hardness overhauled for nearly all blocks, including modded blocks. 
 6. Third 'tech tree' for Farming? 
+	- Added Agricraft and added several incentives for using it. Immersive enginering 'garden cloche' works as hydroponics. 
+	- Tested many nutrition overhaul mods, still nothing here, techguns 'auto-feeding' ignores these edits so they are useless. 
 
 Done:
 (many things before this),
@@ -72,3 +76,12 @@ Notes:
 	
 	02/07/19
 	reduce oil well spawns in favor of oil sands. 
+	
+	02/12/19
+	spent last few days working on performance. 
+	Made several large advances. --removed dynamic surroundings, which sucks, but it was eating to much mem. 
+	Performance has increased drasticly. 
+	
+	02/14/19
+	Massive worldgen overhaul, mostly complete.
+	Added layered system. 
