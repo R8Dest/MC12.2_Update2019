@@ -2,6 +2,10 @@
 Minecraft Client files for Modded pack 12.2 Originally created 02/01/18
 Updated 11/28/18
 
+Changelog - 
+        MC12.2_Update2019/changelog
+      
+
 Current Big Ticket Items:
 1. Create Oregen for all ore types: Create oregen rules for each ore type, biome specific with rarities
 	- Vanilla
